@@ -33,6 +33,7 @@ in
     hPkgs.ghc
     hPkgs.hoogle
     hPkgs.haskell-language-server
+    # hPkgs.fourmolu
     # hPkgs.retrie # Haskell refactoring tool
     # hPkgs.cabal-install
     # hPkgs.ghcid # Continuous terminal Haskell compile checker
